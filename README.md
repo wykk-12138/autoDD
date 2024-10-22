@@ -101,8 +101,6 @@ bash <(wget -qO- https://raw.githubusercontent.com/wykk-12138/autoDD/main/Instal
 
 具体方法：
 1、使用Putty以上文提供的默认密码登录，输入以下命令：passwd root
-
 2、接下来会分两次要求输入新的密码，可以手动输入，也可以在其它位置复制一个密码，然后在Putty界面右键点击即可粘贴上去。
 注意：输入新密码时并不会直接显示出来，光标也不会移动，这是正常的。
-
 3、再次登录系统时，记得使用新的root密码。
